@@ -1,2 +1,6 @@
 name("Recycle Bin")
-iconid = 8666802
+iconid = 67068950
+
+def on_item(in):
+  clrSystem(-[a])
+  
