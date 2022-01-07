@@ -16,4 +16,4 @@ When your new OS (AEGiS Client) starts up, you want to go to "Terminal" and type
 System protections are a automatic process, if something wrong has been ran into by the AEGiS Desktop Defender, automatic things will start to happed.
 
 ## Process 1: AEG@Defender
-Unknown
+This process defends your PC from malicous malware.
